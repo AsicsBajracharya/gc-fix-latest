@@ -1,0 +1,15 @@
+{
+  "name": "gc-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass stylesheets/main.scss css-landing/style.css -w --source-map true --source-map-embed true"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
